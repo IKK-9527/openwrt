@@ -364,7 +364,6 @@ platform_copy_config() {
 			emmc_copy_config
 		fi
 		;;
-<<<<<<< HEAD
 	acer,predator-w6|\
 	acer,predator-w6d|\
 	acer,vero-w6m|\
@@ -372,9 +371,7 @@ platform_copy_config() {
 	arcadyan,mozart|\
 	glinet,gl-mt2500|\
 	glinet,gl-mt2500-airoha|\
-=======
 	beeconmini,seed-ac2|\
->>>>>>> 8f8239d85a (适配BeeconMini SEED AC2)
 	glinet,gl-mt6000|\
 	glinet,gl-x3000|\
 	glinet,gl-xe3000|\
